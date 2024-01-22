@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+## My name is Eduardo, i am a former Magician, now seeking for new adventures
+inside the Tech world. 🃏
 
 <!--
 **EduardoG0202/EduardoG0202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
