@@ -3,7 +3,9 @@
  My name is Eduardo, i am a former Magician, now seeking for new adventures
  inside the Tech world. 🃏
 
- Already working on a full time job as IT for a Winery
+ Been working on a full time job as IT on Tecnovin LTDA
+
+ Love to apreciate the little things and to take time to enjoy life 🌴
 
 <!--
 **EduardoG0202/EduardoG0202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
