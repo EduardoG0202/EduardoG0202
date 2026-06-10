@@ -3,7 +3,7 @@
  My name is Eduardo, i am a former Magician, now seeking for new adventures
  inside the Tech world. 🃏
 
- Been working on a full time job as IT on Tecnovin LTDA
+ Been working on a full time job a Full stack dev on HOS - Sistemas
 
  Love to apreciate the little things and to take time to enjoy life 🌴
 
